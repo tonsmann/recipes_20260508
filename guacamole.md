@@ -4,3 +4,4 @@
 * lime
 * salt
 ## Instructions
+* Clean the avocados
